@@ -1,0 +1,8 @@
+# ----------------------------
+# requirements.txt
+# ----------------------------
+fastapi
+uvicorn
+openai
+pinecone-client[grpc]
+python-dotenv
